@@ -4,3 +4,4 @@ My first repository
 make change
 
 some adds
+zmena
