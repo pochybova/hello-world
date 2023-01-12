@@ -7,4 +7,4 @@ some adds
 
 zmena
 
-zmena 123
+123 zmena
